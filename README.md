@@ -22,10 +22,6 @@ Kumpulan data mencakup informasi tentang:
 3. Informasi akun pelanggan – sudah berapa lama mereka menjadi pelanggan, kontrak, metode pembayaran, tagihan tanpa kertas, tagihan bulanan, dan total tagihan
 4. Info demografis tentang pelanggan – jenis kelamin, rentang usia, dan jika mereka memiliki pasangan dan tanggungan
 
-## Getting Started
-
-- WA_Fn-UseC_-Telco-Customer-Churn
-
 ## Melihat Distribusi dari TotalCharge?
 
 dfa =df.copy()<br>
