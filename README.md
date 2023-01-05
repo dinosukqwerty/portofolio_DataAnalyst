@@ -1,4 +1,5 @@
 # #Cashtag
+## PowerPoint : https://docs.google.com/presentation/d/1cpjM3O4ye1guOLGIsd5fB2guvB7VDWfbVuOVgkaFFDo/edit#slide=id.p
 
 ## Data Analyst
 Telco Customer Churn
